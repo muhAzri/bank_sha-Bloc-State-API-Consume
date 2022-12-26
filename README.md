@@ -6,7 +6,8 @@ This is a Flutter based E-Wallet App that utilizes the Bloc State Management pat
 ## Screenshoots
 <img src="https://i.ibb.co/C6L6nf0/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-20-59.png"  width="200">  |  <img src="https://i.ibb.co/vYdFkRM/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-06.png"  width="200">| <img src="https://i.ibb.co/3RMwtKy/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-43.png"  width="200">
 
-<img src="https://i.ibb.co/FxH4rf5/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-38.png"  width="200"> |<img src="https://i.ibb.co/FYmKQWP/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-16.png"  width="200">  |  <img src="https://i.ibb.co/SVZXC2r/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-46.png"  width="200">
+<img src="https://i.ibb.co/FxH4rf5/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-38.png"  width="200"> |<img src="https://i.ibb.co/FYmKQWP/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-16.png"  width="200">  |  <img src="https://i.ibb.co/vLMxnbY/Simulator-Screen-Shot-i-Phone-14-Pro-Max-2022-12-26-at-14-21-46.png"  width="200">
+
 
 
 ## Dependencies

@@ -25,6 +25,8 @@ This app uses the following dependencies:
 - url_launcher: ^6.1.6
 
 ## Installation
+1. You Can Simply Download the Apk That Already on the repostiory or you can run by flutter project with these steps ahead
+
 To install and run this app, follow these steps:
 - Clone this repository to your local machine
 - Open the project in your preferred code editor
